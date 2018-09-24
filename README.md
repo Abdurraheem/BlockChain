@@ -31,6 +31,6 @@ $ npm install
 $ bower install
 ```
 
-##Run
+### Run
 From the command line run node main.js
 You will get the block node in console.
